@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    font-family: 'Kavivanar', cursive;
+    text-align: center;
+}
+#top{
+    text-align: center;
+}
+#gen_top{
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin-right: 600px;
+    margin-left: 600px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(226, 226, 226);
+    border: solid;
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: rgb(255, 214, 153);
+}
+#about-us{
+    text-align: right
+}
